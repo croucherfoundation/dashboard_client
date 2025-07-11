@@ -1,4 +1,4 @@
-require_relative "../../app/helpers/search_client_helper"
+require_relative "../../app/helpers/dashboard_client_helper"
 
 module DashboardClient
   class Engine < ::Rails::Engine
