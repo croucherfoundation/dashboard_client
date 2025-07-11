@@ -17,10 +17,10 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "rails"
   spec.add_dependency "faraday"
-  spec.add_dependency "faraday_middleware"
+  # spec.add_dependency "faraday_middleware"
   spec.add_dependency "request_store"
- 
+
   spec.add_development_dependency "sqlite3"
   spec.add_dependency "activeresource"
- 
+
 end
